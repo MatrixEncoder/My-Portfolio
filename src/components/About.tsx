@@ -31,12 +31,12 @@ export default function About() {
     <br /><br />
     I'm the guy who can do it for you: <span className="text-cyan-400 font-semibold italic">Penetration Testing</span>,{' '}
     <span className="text-purple-400 font-semibold italic">building Cybersecurity tools (example SHASTRA) </span>—and if that's your thing,{' '}
-    <span className="text-blue-400 font-semibold italic">AI-driven Security Solutions</span>. Damn near anything within reason! 😼
+    <span className="text-blue-400 font-semibold italic">AI-driven Security Solutions</span>. Damn near anything within reason! (💵💰😼)
     <br /><br />
     Currently, I’m diving deep into <span className="text-cyan-400 font-bold uppercase">Offensive Security</span> and{' '}
     <span className="text-purple-400 font-bold uppercase">AI in Cybersecurity</span>, building{' '}
     <span className="text-blue-400 font-bold uppercase">AI-powered Defense Systems</span> to keep the internet a safer place. Before this, I completed an{' '}
-    <span className="text-cyan-400 font-semibold">Ethical Hacking</span> internship, reported my first vulnerability, and tackled some of the toughest{' '}
+    <span className="text-cyan-400 font-semibold">Ethical Hacking</span> training, reported my first vulnerability, and tackled some of the toughest{' '}
     <span className="text-purple-400 font-semibold">Web Security Academy</span> labs.
     <br /><br />
     In the past, I’ve been a <span className="text-cyan-400 font-semibold underline">Hackathon Finalist</span>, an{' '}
